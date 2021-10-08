@@ -1,4 +1,4 @@
-## Ödev 2
+## Ödev 3
 
 Aşağıdaki sorgu senaryolarını [dvdrental](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) örnek veri tabanı üzerinden gerçekleştiriniz.
 
