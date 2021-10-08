@@ -17,7 +17,7 @@ Aşağıdaki sorgu senaryolarını [dvdrental](https://www.postgresqltutorial.co
 
 2. 
 ``` sql
-    SELECT country FROM country WHERE country LIKE '_____%n';
+    SELECT country FROM country WHERE (LENGTH(country) >= 6) AND (country LIKE '%n');
 
 ```
 
