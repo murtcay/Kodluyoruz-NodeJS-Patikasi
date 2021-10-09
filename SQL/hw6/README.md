@@ -17,7 +17,7 @@ Aşağıdaki sorgu senaryolarını [dvdrental](https://www.postgresqltutorial.co
 
 2. 
 ``` sql
-    SELECT COUNT(*) FROM film WHERE title LIKE 'C%'
+    SELECT COUNT(*) FROM film WHERE title LIKE 'C%';
 
 ```
 
