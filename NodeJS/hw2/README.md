@@ -1,3 +1,5 @@
+Ready to create a blog? Let's list our posts on the console screen, then add a new post. After that list all posts again.
+
 ## Common Parts:
 
 ``` javascript
