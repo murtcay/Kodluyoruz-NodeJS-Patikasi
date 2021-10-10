@@ -27,7 +27,7 @@ calcCircleArea(arguments[0]);
 
 ## Example Usage:
 Run [circle-area.js](circle-area.js) file witth node.
-``` shell
+``` console
     [murtcay@murtcay NodeJS]$ node node circle-area.js 4
     Radius: 4 and circle area: 50.26548245743669.
 ```
