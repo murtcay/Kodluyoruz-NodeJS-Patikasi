@@ -1,6 +1,10 @@
+## HW 2
+
 Ready to create a blog? Let's list our posts on the console screen, then add a new post. After that list all posts again.
 
-## Common Parts:
+## Solution:
+
+### Common Parts:
 
 ``` javascript
 const posts = [
@@ -18,7 +22,7 @@ const listPosts= () => {
 
 ```
 
-## Callback
+### Callback Usage
 
 ``` javascript
 const addPost = (new_post, callback) => {
@@ -54,7 +58,7 @@ addPost({title:'Lorem Ipsum Sentences-4', content: 'Sollicitudin tempor id eu ni
 
 ```
 
-## Promise
+### Promise Usage
 
 ``` javascript
 const addPost = (new_post) => {
@@ -100,7 +104,7 @@ addPost({title:'Lorem Ipsum Sentences-4', content: 'Sollicitudin tempor id eu ni
 
 ```
 
-## Async - Await
+### Async - Await Usage
 
 ``` javascript
 const addPost = (new_post) => {
