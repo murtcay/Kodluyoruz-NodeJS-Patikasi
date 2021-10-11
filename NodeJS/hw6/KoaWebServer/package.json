@@ -1,0 +1,19 @@
+{
+  "name": "koawebserver",
+  "version": "1.0.0",
+  "description": "Koa web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "web",
+    "app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.3"
+  }
+}
