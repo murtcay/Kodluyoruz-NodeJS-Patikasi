@@ -1,0 +1,16 @@
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/bin/Debug/net5.0/variables
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/bin/Debug/net5.0/variables.deps.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/bin/Debug/net5.0/variables.runtimeconfig.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/bin/Debug/net5.0/variables.runtimeconfig.dev.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/bin/Debug/net5.0/variables.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/bin/Debug/net5.0/ref/variables.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/bin/Debug/net5.0/variables.pdb
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/obj/Debug/net5.0/variables.csprojAssemblyReference.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/obj/Debug/net5.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/obj/Debug/net5.0/variables.AssemblyInfoInputs.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/obj/Debug/net5.0/variables.AssemblyInfo.cs
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/obj/Debug/net5.0/variables.csproj.CoreCompileInputs.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/obj/Debug/net5.0/variables.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/obj/Debug/net5.0/ref/variables.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/obj/Debug/net5.0/variables.pdb
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/variables/obj/Debug/net5.0/variables.genruntimeconfig.cache
