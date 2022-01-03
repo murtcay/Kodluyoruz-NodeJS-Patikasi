@@ -1,0 +1,16 @@
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/bin/Debug/net5.0/type-conversions
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/bin/Debug/net5.0/type-conversions.deps.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/bin/Debug/net5.0/type-conversions.runtimeconfig.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/bin/Debug/net5.0/type-conversions.runtimeconfig.dev.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/bin/Debug/net5.0/type-conversions.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/bin/Debug/net5.0/ref/type-conversions.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/bin/Debug/net5.0/type-conversions.pdb
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/obj/Debug/net5.0/type-conversions.csprojAssemblyReference.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/obj/Debug/net5.0/type-conversions.GeneratedMSBuildEditorConfig.editorconfig
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/obj/Debug/net5.0/type-conversions.AssemblyInfoInputs.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/obj/Debug/net5.0/type-conversions.AssemblyInfo.cs
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/obj/Debug/net5.0/type-conversions.csproj.CoreCompileInputs.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/obj/Debug/net5.0/type-conversions.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/obj/Debug/net5.0/ref/type-conversions.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/obj/Debug/net5.0/type-conversions.pdb
+/home/murtcay/Projects/AppPatika/Kodluyoruz-NodeJS-Patikasi/C-Sharp-101/type-conversions/obj/Debug/net5.0/type-conversions.genruntimeconfig.cache
