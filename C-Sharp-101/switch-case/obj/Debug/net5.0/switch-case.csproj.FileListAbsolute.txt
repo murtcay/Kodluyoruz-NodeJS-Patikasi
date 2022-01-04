@@ -1,0 +1,16 @@
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/obj/Debug/net5.0/switch-case.csprojAssemblyReference.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/obj/Debug/net5.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfoInputs.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfo.cs
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/obj/Debug/net5.0/switch-case.csproj.CoreCompileInputs.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/bin/Debug/net5.0/switch-case
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/bin/Debug/net5.0/switch-case.deps.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/bin/Debug/net5.0/switch-case.runtimeconfig.dev.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/bin/Debug/net5.0/switch-case.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/bin/Debug/net5.0/ref/switch-case.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/bin/Debug/net5.0/switch-case.pdb
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/obj/Debug/net5.0/switch-case.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/obj/Debug/net5.0/ref/switch-case.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/obj/Debug/net5.0/switch-case.pdb
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/switch-case/obj/Debug/net5.0/switch-case.genruntimeconfig.cache
