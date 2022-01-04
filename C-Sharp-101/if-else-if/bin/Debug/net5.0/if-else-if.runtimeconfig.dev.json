@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/murtcay/.dotnet/store/|arch|/|tfm|",
+      "/home/murtcay/.nuget/packages"
+    ]
+  }
+}
