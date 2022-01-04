@@ -29,9 +29,14 @@ namespace type_conversions
             Console.WriteLine("(byte)y: " + (byte)y);
             Console.WriteLine("x.ToString(): " + x.ToString());
             Console.WriteLine("10.3f.ToString(): " + 10.3f.ToString());
-            Console.WriteLine("Convert.ToInt32('12'): " + Convert.ToInt32("12"));
+            Console.WriteLine("Convert.ToInt32('12'): " + Convert.ToByte("12"));
             Console.WriteLine("Int32.Parse('12'): " + Int32.Parse("12"));
             Console.WriteLine("Double.Parse('12.34'): " + Double.Parse("12.34"));
+
+
+            byte i12 = 12;
+            Int32 b12 = Convert.ToInt32(i12);
+
         }
     }
 }

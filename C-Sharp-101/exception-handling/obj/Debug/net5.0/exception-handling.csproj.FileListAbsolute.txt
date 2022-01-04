@@ -1,0 +1,16 @@
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/bin/Debug/net5.0/exception-handling
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/bin/Debug/net5.0/exception-handling.deps.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/bin/Debug/net5.0/exception-handling.runtimeconfig.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/bin/Debug/net5.0/exception-handling.runtimeconfig.dev.json
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/bin/Debug/net5.0/exception-handling.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/bin/Debug/net5.0/ref/exception-handling.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/bin/Debug/net5.0/exception-handling.pdb
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/obj/Debug/net5.0/exception-handling.csprojAssemblyReference.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/obj/Debug/net5.0/exception-handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/obj/Debug/net5.0/exception-handling.AssemblyInfoInputs.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/obj/Debug/net5.0/exception-handling.AssemblyInfo.cs
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/obj/Debug/net5.0/exception-handling.csproj.CoreCompileInputs.cache
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/obj/Debug/net5.0/exception-handling.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/obj/Debug/net5.0/ref/exception-handling.dll
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/obj/Debug/net5.0/exception-handling.pdb
+/home/murtcay/Projects/AppPatika/Kodluyoruz-Patikasi/C-Sharp-101/exception-handling/obj/Debug/net5.0/exception-handling.genruntimeconfig.cache
