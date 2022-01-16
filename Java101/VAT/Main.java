@@ -15,6 +15,8 @@ public class Main {
     double fee = vatRatio * price;
     double totalPrice = price + fee;
 
+    inputPrice.close();
+
     System.out.println("Price: " + price);
     System.out.println("VAT ratio: " + vatRatio);
     System.out.println("Fee: " + fee);
